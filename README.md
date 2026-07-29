@@ -1,64 +1,72 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e44ff,100:d946ef&height=160&section=header&text=Hi%20there!%20I'm%20Wishma%20👩‍💻&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e44ff,100:d946ef&height=160&section=header&text=Wishma%20Babar%20👩‍💻&fontSize=30&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  💻 Software Engineering Student | 🌐 Web Developer | 🚀 Aspiring MERN Stack Developer
+  Software Engineering Student • Web Developer • Learning MERN Stack
 </p>
 
 <hr/>
 
 ## 👋 About Me
 
-- 🎓 Currently studying **BS Software Engineering** at PAF-IAST, Haripur  
-- 💡 Passionate about solving real-world problems using **web technologies** and **clean code**  
-- 🌱 Learning **MERN Stack**, **Git**, and version control best practices  
-- ✨ Interested in full-stack development, backend logic, and modern UI design  
+I'm Wishma, a Software Engineering student at PAF-IAST, Haripur.
 
-<hr/>
+I build things — from Java desktop applications to WordPress websites and SQL databases. Right now, I'm learning full-stack JavaScript development.
 
-## 🏆 Achievements
+I like solving problems with code and understanding how systems work behind the scenes.
 
-- ✅ Completed **WordPress Development Internship** at Giga Developers Pvt. Ltd.  
-- 🥇 Built a **multi-core Java Scheduling Simulator** with GUI and Gantt chart  
-- 🍽️ Developed a **relational DBMS using Oracle SQL** for restaurant operations  
-- 🐧 Comfortable using the **Ubuntu terminal** for project compilation and Git operations  
-- 🌐 Actively exploring GitHub and contributing to open-source projects  
+---
 
-<hr/>
+## 💼 What I've Done
 
-## 🛠️ Tech Stack & Tools
+### 🏢 Internship
+- **Web Developer** at Giga Developers Pvt. Ltd.
+- Built websites using Elementor, custom CSS, and plugins
+- Worked on portfolio sites, blogs, and e-commerce stores
 
-**Languages:**  
-`HTML` `CSS` `JavaScript` `C++` `Java` `SQL`
+### 🎓 University Projects
 
-**Frameworks & Tools:**  
-`WordPress` `Elementor` `React (Learning)` `Node.js (Learning)`
+**CPU Scheduling Simulator — Java**
+- Implemented FCFS, SJF, Round Robin, and SRTF algorithms
+- Supports multi-core CPU scheduling
+- Shows Gantt chart visualization
+- Calculates average wait time, turnaround time, and CPU utilization
+- Built using Java Swing and AWT
 
-**Database:**  
-`MySQL` `Oracle SQL`
+**Restaurant Management System — Oracle SQL**
+- Designed relational database for restaurant operations
+- Manages orders, staff, and menu items
+- Created normalized schema and SQL procedures
+- Built with Oracle SQL Developer
 
-**Dev Tools:**  
-`VS Code` `Git` `GitHub` `MySQL Workbench` `XAMPP` `Oracle SQL Developer` `Ubuntu Terminal` `MS Office`
+**WordPress Websites**
+- Developed multiple sites with Elementor page builder
+- Added custom CSS for styling
+- Integrated testimonials, product showcases, and calendars
 
-<hr/>
+---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-### 📌 Process Scheduling Simulator – Java GUI 🧠  
-A CPU scheduling simulator implementing FCFS, SJF, RR, and SRTF algorithms with multi-core Gantt chart visualization and performance metrics.  
-**Tech Used:** Java, Swing, AWT
+**Languages:** Java, SQL, JavaScript, HTML, CSS, C++
 
-### 📌 Restaurant Management System – Oracle SQL 🍽️  
-Designed and implemented a relational DBMS to manage orders, staff, and menu using SQL queries with normalized schema.  
-**Tech Used:** Oracle SQL, ER Diagrams, PL/SQL
+**Tools:** WordPress, Elementor, Git, GitHub, VS Code, XAMPP, MySQL Workbench, Oracle SQL Developer, Ubuntu Terminal
 
-### 📌 WordPress Portfolio, Blog & E-commerce Sites 🛍️  
-Developed multiple WordPress websites using Elementor including a product showcase, testimonial sections, and calendar integrations.  
-**Tech Used:** WordPress, Elementor, Custom CSS
+**Currently Learning:** React, Node.js, MongoDB
 
-<hr/>
+---
+
+## 📌 Projects at a Glance
+
+| Project | Built With | What It Does |
+|---------|-----------|--------------|
+| CPU Scheduler | Java, Swing | Simulates 4 scheduling algorithms with Gantt charts and metrics |
+| Restaurant DB | Oracle SQL | Manages orders, staff, and menu with normalized schema |
+| WordPress Sites | WordPress, Elementor | Portfolio, blog, and e-commerce websites |
+
+---
 
 ## 📈 GitHub Stats
 
@@ -71,14 +79,17 @@ Developed multiple WordPress websites using Elementor including a product showca
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WishmaBabar&theme=radical" width="70%" />
 </p>
 
-<hr/>
+---
 
-## 📬 Connect with Me
+## 📬 Contact
 
-- 📧 Email: `wishmababar@gmail.com`  
-- 🌐 LinkedIn: [linkedin.com/in/wishma-babar](https://www.linkedin.com/in/wishma-babar)  
-- 🌍 Portfolio: *Coming Soon...*
+- Email: wishmababar@gmail.com
+- LinkedIn: [linkedin.com/in/wishma-babar](https://www.linkedin.com/in/wishma-babar)
 
-<hr/>
+---
 
+## 🔜 What I'm Working On
 
+- Building my first MERN stack project
+- Adding more projects to GitHub
+- Learning React and Node.js through hands-on practice
